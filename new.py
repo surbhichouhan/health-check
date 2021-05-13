@@ -1,5 +1,5 @@
 
 def main():
-    pass
+    print("I am a new file")
 
 main()
